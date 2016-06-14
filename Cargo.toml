@@ -3,6 +3,7 @@
 name          = "tmp_mio"
 version       = "0.5.2"
 license       = "MIT"
+authors       = ["Carl Lerche <me@carllerche.com>"]
 description   = "Temporary fork of the mio crate with windows bug fix"
 documentation = "http://rustdoc.s3-website-us-east-1.amazonaws.com/mio/v0.5.x/mio/"
 homepage      = "https://github.com/carllerche/mio"
