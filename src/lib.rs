@@ -79,7 +79,7 @@
 //!
 //! ```
 
-#![crate_name = "mio"]
+#![crate_name = "tmp_mio"]
 #![cfg_attr(unix, deny(warnings))]
 
 extern crate bytes;

@@ -1,4 +1,4 @@
-extern crate mio;
+extern crate tmp_mio as mio;
 
 use mio::{EventLoop, Handler, Token, EventSet, PollOpt};
 use mio::tcp::TcpListener;

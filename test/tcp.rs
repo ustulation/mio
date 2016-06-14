@@ -1,4 +1,4 @@
-extern crate mio;
+extern crate tmp_mio as mio;
 extern crate env_logger;
 
 use std::io::prelude::*;
